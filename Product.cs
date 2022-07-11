@@ -30,12 +30,12 @@ namespace Product
     {
         public void Create()
         {
-            Console.WriteLine("Product created successfully");
+            Console.WriteLine("Product created very successfully");
         }
 
         public void Delete()
         {
-            Console.WriteLine("Product deleted successfully");
+            Console.WriteLine("Product deleted very successfully");
         }
 
         public void Update()
